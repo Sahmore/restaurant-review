@@ -1,8 +1,30 @@
-# Getting Started with Create React App
+# Restaurant Review Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A full-stack web application for reviewing restaurants in Lesotho, built with React, Node.js, Express, and Firebase.
 
-## Available Scripts
+## Features
+
+- Browse and search restaurants in Lesotho
+- View detailed restaurant information
+- Read and write restaurant reviews
+- User authentication
+- Responsive design
+
+## Tech Stack
+
+### Frontend
+- React
+- React Router
+- Firebase Authentication
+- CSS for styling
+
+### Backend
+- Node.js
+- Express.js
+- Firebase Admin SDK
+- Firebase Cloud Storage
+
+## Getting Started
 
 In the project directory, you can run:
 
